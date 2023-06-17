@@ -1,5 +1,7 @@
 # coding-interview-guide
-Coding Interview Preparation: A Comprehensive Guide for Noobs
+#### Coding Interview Preparation: A Comprehensive Guide for Noobs
+Original articles posted at: 
+
 Coding Interview Preparation for FAANG, MANGA, etc: A Comprehensive Study Guide to get an Offer Letter.
 
 Introduction:
@@ -87,14 +89,60 @@ Intro to CS:
 Conclusion:
 With this organized list of coding interview preparation resources, you now have a wealth of information at your fingertips. Remember, practice is key, so make sure to solve coding problems regularly, study system design concepts, and enhance your behavioral interview skills. Stay motivated, stay focused, and best of luck with your coding interviews!
 
+---
+
+#### Demystifying Big O Notation: Why Every Software Engineer Should Master It for Coding Interviews
+
+Understanding Big O Notation: A Crucial Concept for Coding Interviews.
+
+Big O is especially important at FAANG or MANNG coding interviews.
+
+Introduction:
+In the world of software engineering, efficiency and scalability are key factors when designing and analyzing algorithms. Big O notation, a mathematical concept, allows us to express the time and space complexity of algorithms, helping us understand their efficiency and performance. In this blog post, we will dive into the significance of Big O notation, its relevance in coding interviews, and provide definitions for various complexity levels. We’ll also explore the concepts of upper bounds and lower bounds. To help grasp the concept, we’ll use a metaphor comparing Big O notation to a food recipe and the variable ’n’ to the number of times you follow the recipe.
+
+Why Big O Notation Matters in Coding Interviews:
+During coding interviews, candidates are evaluated not only on their ability to write correct code but also on their understanding of algorithmic efficiency. Employers seek engineers who can create scalable solutions that can handle large data sets efficiently. Big O notation helps quantify the performance of algorithms and enables engineers to make informed decisions when choosing the most suitable approach for a given problem. It demonstrates an engineer’s ability to optimize code and assess the trade-offs between time complexity and space complexity.
+
+Definitions of Big O Notation Complexities:
+1. Constant Time (O(1)): An algorithm with constant time complexity executes in the same amount of time regardless of the input size. It is the most efficient complexity level. Example: Accessing an element from an array with a known index.
+
+2. Logarithmic Time (O(log n)): Algorithms with logarithmic time complexity have a runtime proportional to the logarithm of the input size. They efficiently divide the problem space in each step. Example: Binary search in a sorted array.
+
+3. Linear Time (O(n)): Algorithms with linear time complexity have a runtime that scales linearly with the input size. The execution time grows proportionally to the number of elements. Example: Iterating through an array to find a specific element.
+
+4. Log Linear Time (O(n log n)): Algorithms with log linear time complexity are slightly more complex than linear time algorithms. They have a runtime proportional to the product of the input size and the logarithm of the input size. Example: Merge sort, quicksort.
+
+5. Quadratic Time (O(n²)): Algorithms with quadratic time complexity have a runtime proportional to the square of the input size. They involve nested iterations over the input data. Example: Bubble sort, selection sort.
+
+6. Cubic Time (O(n³)): Algorithms with cubic time complexity have a runtime proportional to the cube of the input size. They involve three nested iterations over the input data. Example: Nested loops with three levels.
+
+7. Exponential Time (O(2^n)): Algorithms with exponential time complexity have a runtime that doubles with each additional input element. They become highly inefficient for larger input sizes. Example: Generating all possible subsets of a set.
+
+8. Factorial Time (O(n!)): Algorithms with factorial time complexity have a runtime that grows factorially with the input size. They are highly inefficient and typically not feasible for most practical applications. Example: Generating all possible permutations of a set.
+
+Understanding Upper Bounds and Lower Bounds:
+In the context of Big O notation, upper bounds and lower bounds provide additional insights into the algorithm’s performance:
+
+- Upper Bounds: The upper bound of an algorithm’s time complexity represents the worst-case scenario or the maximum time required to solve a problem. It provides an assurance that the algorithm will not take more time than indicated by the upper bound. Big O notation represents the upper bound.
+
+- Lower Bounds: The lower bound of an algorithm’s time complexity represents the best-case scenario or the minimum time required to solve a problem. It gives a lower limit on the time taken by an
+
+algorithm. Lower bounds are usually represented using Ω (omega) notation.
+
+Metaphor: Big O Notation as a Food Recipe
+To understand Big O notation, imagine a food recipe. Let’s say you want to make a cake. The recipe represents an algorithm, and ’n’ represents the number of times you follow the recipe. The complexity of the recipe can be described using Big O notation. For example:
+
+- If the recipe states, “Mix ingredients in a bowl” (constant time), it means it will take the same amount of time, regardless of the number of times you follow the recipe.
+
+- If the recipe states, “Cut fruits into half” (logarithmic time), it means the time taken will increase slightly with each additional fruit you cut.
+
+- If the recipe states, “Peel ’n’ potatoes” (linear time), the time taken will increase linearly with the number of potatoes you need to peel.
+
+Conclusion:
+Big O notation is a crucial concept for software engineers, particularly during coding interviews. Understanding algorithmic complexity and efficiency is essential for designing scalable solutions. By using Big O notation, engineers can quantify the performance of their algorithms and make informed decisions. Remember, just as a recipe’s complexity can vary based on the number of times you follow it, the time complexity of an algorithm can change based on the size of the input. Keep practicing and honing your understanding of Big O notation to excel in coding interviews and become a proficient software engineer.
+
 Written by Kevin K. Roozrokh
 Follow me on the socials:
-https://linkedin.com/in/kevin-roozrokh/
-https://github.com/KevinRoozrokh
-https://instagram.com/donkayvan/
-https://twitter.com/KevinKayvan
-https://facebook.com/KevinKayvan/
-https://reddit.com/user/KevinKayvan
-
+https://linktr.ee/kevin_roozrokh
 Portfolio: https://KevinRoozrokh.github.io
 Hire me on Upwork: https://upwork.com/freelancers/~01cb1ed2c221f3efd6?viewMode=1
