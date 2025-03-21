@@ -42,9 +42,7 @@ Books:
 2. [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 3. [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
 4. [Designing Data Intensive Applications by Martin Kleppman](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-5. [The Google Resume by Gayle Laak
-
-mann McDowell](https://www.amazon.com/Google-Resume-Preparation-Mastering-Interview/dp/0470927623)
+5. [The Google Resume by Gayle Laakmann McDowell](https://www.amazon.com/Google-Resume-Preparation-Mastering-Interview/dp/0470927623)
 6. [Programming Interviews Exposed by John Mongan, Noah Suojanen](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/111941847X)
 7. [Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
 
@@ -75,11 +73,10 @@ YouTube Channels/Playlists:
 2. [Tushar Roy](https://www.youtube.com/user/tusharroy2525/playlists)
 3. [happygirlzt](https://www.youtube.com/user/happygirlzt)
 4. [Nick White’s LeetCode Explanations](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
-5. [mycodeschool](https://www.youtube.com/user
-
-/mycodeschool/playlists)
+5. [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists)
 6. [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/playlists)
 7. [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/playlists)
+8. [Network Chuck](https://www.youtube.com/@NetworkChuck)
 
 Intro to CS:
 1. [Open Source Society University — Computer Science](https://github.com/ossu/computer-science)
@@ -145,4 +142,3 @@ Written by Kevin K. Roozrokh
 Follow me on the socials:
 https://linktr.ee/kevin_roozrokh
 Portfolio: https://KevinRoozrokh.github.io
-Hire me on Upwork: https://upwork.com/freelancers/~01cb1ed2c221f3efd6?viewMode=1
